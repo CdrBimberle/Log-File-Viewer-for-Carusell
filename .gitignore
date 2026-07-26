@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Local data / caches
+data/cache.db
+data/import_errors.txt
+*.csv
+
+# PyInstaller build intermediates (keep dist/ for the EXE release)
+build/
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store
