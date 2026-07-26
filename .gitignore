@@ -9,6 +9,8 @@ __pycache__/
 # Local data / caches
 data/cache.db
 data/import_errors.txt
+**/cache.db
+**/import_errors.txt
 *.csv
 
 # PyInstaller build intermediates (keep dist/ for the EXE release)
